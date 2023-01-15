@@ -201,10 +201,10 @@ export default function Header() {
           <div class="col-4">
             <div class="currentDate">
               <div class="date">
-                <p>12/12/2022</p>
+                <p>15/01/2023</p>
               </div>
               <div class="currentTime">
-                <p>09:05</p>
+                <p>17:05</p>
               </div>
               <div class="dayOfWeek">
                 <p>Sunday</p>
